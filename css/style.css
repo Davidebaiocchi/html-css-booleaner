@@ -19,13 +19,29 @@ h1 {
     font-size: 30px;
 }
 /* IMMAGINI TIM */
-.img{
- text-align: center;
-}
+
 .img1{
     height: 700px;
     text-align: left;
 }
 .img2{
     height: 700px;
+}
+.lorem{
+    font-size: 30px;
+}
+.evidenziato{
+    background-color: yellow;
+}
+/* TABLE */
+.tr1{
+    background-color: #4ea0ff;
+        color: white;
+        font-size: 30px;   
+}
+.tr2{
+    background-color: #b6d7fc;
+}
+tr{
+    font-size: 30px;
 }
